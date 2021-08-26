@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/lokesh/Desktop/office/crudproj/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
+            "outputFile": "/home/lokesh/Desktop/office/crudapp-RN/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
             "map": [
                 {
                     "source": "/home/lokesh/.gradle/caches/transforms-2/files-2.1/21e1699138e4e4da2df2898493686baa/appcompat-1.1.0/res/values-lt/values-lt.xml",
