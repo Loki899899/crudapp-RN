@@ -1,0 +1,14 @@
+com/crudproj/ReactNativeFlipper.java
+ com.crudproj.ReactNativeFlipper
+ com.crudproj.ReactNativeFlipper$1
+ com.crudproj.ReactNativeFlipper$2
+ com.crudproj.ReactNativeFlipper$2$1
+com/crudproj/BuildConfig.java
+ com.crudproj.BuildConfig
+com/crudproj/MainApplication.java
+ com.crudproj.MainApplication
+ com.crudproj.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/crudproj/MainActivity.java
+ com.crudproj.MainActivity
